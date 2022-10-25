@@ -1,3 +1,5 @@
-# React shop portfolio project
+## Application shop
+Here will be chapter backend.
 
-[DEMO](https://lazy1220.github.io/shop-project/)
+application by created Max (LaZy1220)
+Her github here, on link https://github.com/LaZy1220
