@@ -1,4 +1,4 @@
-import {GoodsItem} from './../GoodsItem/GoodsItem'
+import {GoodsItem} from '../GoodsItem/GoodsItem'
 import './GoodsList.css'
 export function GoodsList(props){
     const {goods=[],addOrder}=props
